@@ -24,7 +24,7 @@ urlcolor: blue
 
 # RESEARCH EXPERIENCE
 
-**Young Lives** | _Oxford, UK_ | Research Consultant \hfill 2023 - ongoing
+**Young Lives** | _Oxford, UK_ | Research Consultant \hfill 2021 - ongoing
 
 * Assisted with development and implementation of round 7 of  Young Lives survey of childhood poverty in four low- and middle-income countries. Travelled to Hyderabad, India and Addis Ababa, Ethiopia to deliver training to fieldwork supervisors and collect feedback from country teams on survey modules.
 
@@ -80,11 +80,11 @@ urlcolor: blue
 
 Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [[link](https://gerrymcquade.github.io/[GM]earlyliferainfall_personalitytraits_0623.pdf)]
 
-Think of the children: Inter-generational effects of drought exposure on offspring outcomes
+Examining sibling spillovers of a school-day extension program using a regression discontinuity design - _with Catherine Porter & Alan Sanchez_ 
 
-Additional returns of extending the school day: Estimating sibling spillovers using a regression discontinuity design - _with Catherine Porter & Alan Sanchez_ 
+Think of the children: Inter-generational effects of drought exposure on offspring outcomes in Peru
 
-Using ACASI (vs. enumerator-administered survey techniques) to measure conflict experiences - _with Sophie von Russdorf, Laura Ahlborn & Marta Favara_
+A sound methodology: Measuring experiences of violent conflict through audio self-interviews - _with Sophie von Russdorf, Laura Ahlborn, Alessandra Hidalgo & Marta Favara_
 
 ## **Technical Notes**
 

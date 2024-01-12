@@ -44,11 +44,11 @@ _Advisors: Robert Mochrie_
 
 # RESEARCH EXPERIENCE
 
-**Grupo De Análisis para el Desarrollo** | _Lima, Peru_ | Visiting Researcher \hfill Winter 2023
+**Grupo De Análisis para el Desarrollo** | _Lima, Peru_ | Visiting Researcher \hfill 2023
+
+**Young Lives** | _Oxford, UK_ | Research Consultant \hfill 2021 - 2023
 
 **Queen Mary University London** | _London, UK_ | RA to Simon Franklin \hfill 2022
-
-**Young Lives** | _Oxford, UK_ | Research Consultant \hfill 2021 - 2022
 
 **Young Lives** | _Oxford, UK_ | Research Assistant \hfill 2020
 
@@ -62,11 +62,14 @@ _Advisors: Robert Mochrie_
 
 ## **Research Papers**
 
-Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru
+Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [[link](https://gerrymcquade.github.io/[GM]earlyliferainfall_personalitytraits_0623.pdf)]
 
-Additional returns of extending the school day: Estimating sibling spillovers using a regression discontinuity design - _with Catherine Porter, Marta Favara & Alan Sanchez_ 
+Examining sibling spillovers of a school-day extension program using a regression discontinuity design - _with Catherine Porter & Alan Sanchez_ 
 
-Think of the children: Inter-generational effects of drought exposure on offspring outcomes
+Think of the children: Inter-generational effects of drought exposure on offspring outcomes in Peru
+
+A sound methodology: Measuring experiences of violent conflict through audio self-interviews - _with Sophie von Russdorf, Laura Ahlborn, Alessandra Hidalgo & Marta Favara_
+
 
 ## **Technical Notes**
 
@@ -88,7 +91,7 @@ Deaths related to drug poisoning in England and Wales: 2018 registrations – ON
 
  **2023** 
 
-* 14th Bolivian Conference on Development Economics; Conferencia Internacional de Desarrollo Económico PUCP; 2nd International Conference on Development Economics; 36th European Society of Population Economics conference; 1st Welfare and Policy conference; Inaugural Essex PhD Conference in Applied Economics; NWSSDTP PhD Conference in Economics; 12th Summer School in Development Economics Workshop (_invited_)
+* 14th Bolivian Conference on Development Economics; Conferencia Internacional de Desarrollo Económico PUCP; 2nd International Conference on Development Economics; 36th European Society of Population Economics conference; 1st Welfare and Policy conference; Inaugural Essex PhD Conference in Applied Economics; NWSSDTP PhD Conference in Economics; Lancaster Applied Micro Workshop; 12th Summer School in Development Economics Workshop (_invited_)
 
 **2019 - 2022** 
 
@@ -149,4 +152,4 @@ Deaths related to drug poisoning in England and Wales: 2018 registrations – ON
 
 **Proficiences** Stata, R/Rstudio (including Rmarkdown), QGIS, LaTeX
 
-**Languages** English (Native), Spanish (2 semesters of elective classes, SCQF level 7)
+**Languages** English (Native), Spanish (CEFR level A2)
