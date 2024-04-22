@@ -73,7 +73,7 @@ A sound methodology: Measuring experiences of violent conflict through audio sel
 
 ## **Technical Notes**
 
-Identifying climate shocks in Young Lives communities: Estimating weather conditions using a global gridded time series | Young Lives
+Identifying climate shocks in Young Lives communities: Estimating weather conditions using a global gridded time series | Young Lives [[link](https://www.younglives.org.uk/publications/identifying-climate-shocks-young-lives-communities-estimating-weather-conditions-using)]
 
 Selection and validation of socio-emotional skill measures in round 5 of the Young Lives survey | Young Lives | _with Catherine Porter, Marta Favara & Mark Mitchell_ 
 
@@ -151,5 +151,7 @@ Deaths related to drug poisoning in England and Wales: 2018 registrations – ON
 **Roles**  Lancaster University Economics Department PhD seminar organiser \hfill 2021-2022
 
 **Proficiences** Stata, R/Rstudio (including Rmarkdown), QGIS, LaTeX
+
+**Software** sideytab [[Github repository](https://github.com/gerrymcquade/sideytab)]
 
 **Languages** English (Native), Spanish (CEFR level A2)
