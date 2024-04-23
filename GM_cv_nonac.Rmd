@@ -80,15 +80,15 @@ urlcolor: blue
 
 Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [[link](https://gerrymcquade.github.io/[GM]earlyliferainfall_personalitytraits_0623.pdf)]
 
-Examining sibling spillovers of a school-day extension program using a regression discontinuity design - _with Catherine Porter & Alan Sanchez_ 
-
 Think of the children: Inter-generational effects of drought exposure on offspring outcomes in Peru
+
+Examining sibling spillovers of a school-day extension program using a regression discontinuity design - _with Catherine Porter & Alan Sanchez_ 
 
 A sound methodology: Measuring experiences of violent conflict through audio self-interviews - _with Sophie von Russdorf, Laura Ahlborn, Alessandra Hidalgo & Marta Favara_
 
 ## **Technical Notes**
 
-Identifying climate shocks in Young Lives communities: Estimating weather conditions using a global gridded time series | Young Lives [[link](https://www.younglives.org.uk/publications/identifying-climate-shocks-young-lives-communities-estimating-weather-conditions-using)]
+Identifying climate shocks in Young Lives communities: Estimating weather conditions using a global gridded time series | Young Lives | _with Marta Favara_  [[link](https://www.younglives.org.uk/publications/identifying-climate-shocks-young-lives-communities-estimating-weather-conditions-using)]
 
 Selection and validation of socio-emotional skill measures in round 5 of the Young Lives survey - _with Catherine Porter, Marta Favara & Mark Mitchell_ | Young Lives
 
