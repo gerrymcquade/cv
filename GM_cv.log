@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.27)  23 APR 2024 01:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.27)  29 AUG 2024 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -685,7 +685,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 129.
 
 LaTeX Font Warning: Font shape `T1/pplj/b/sc' undefined
-(Font)              using `T1/pplj/b/n' instead on input line 191.
+(Font)              using `T1/pplj/b/n' instead on input line 188.
 
 [1
 
@@ -700,21 +700,21 @@ L3 programming layer <2023-06-16>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `GM_cv.out' has not changed.
-(rerunfilecheck)             Checksum: 4D6172DF1B7D1954718FFD2EC8125630;1744.
+(rerunfilecheck)             Checksum: 681D12A3AB3E4AE02E52655676B8FD04;1657.
  ) 
 Here is how much of TeX's memory you used:
- 24006 strings out of 477683
- 443225 string characters out of 5829571
+ 23990 strings out of 477683
+ 442971 string characters out of 5829571
  1863763 words of memory out of 5000000
- 44030 multiletter control sequences out of 15000+600000
+ 44028 multiletter control sequences out of 15000+600000
  549822 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 117i,11n,121p,1017b,490s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,12n,121p,1017b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/geral/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on GM_cv.pdf (3 pages, 114930 bytes).
+Output written on GM_cv.pdf (3 pages, 115352 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 117 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 149 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 16 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
 

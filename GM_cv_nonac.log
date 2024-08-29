@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.27)  23 APR 2024 01:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.27)  29 AUG 2024 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -688,7 +688,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 {c:/Users/geral/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
 
 LaTeX Font Warning: Font shape `T1/pplj/b/sc' undefined
-(Font)              using `T1/pplj/b/n' instead on input line 261.
+(Font)              using `T1/pplj/b/n' instead on input line 256.
 
 [2] 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -701,21 +701,21 @@ L3 programming layer <2023-06-16>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `GM_cv_nonac.out' has not changed.
-(rerunfilecheck)             Checksum: C06839C5833D07F5B98E8F7A2027AFDB;1311.
+(rerunfilecheck)             Checksum: AA9286DDDC2C8C94A199427AE006D702;1482.
  ) 
 Here is how much of TeX's memory you used:
- 23988 strings out of 477683
- 443081 string characters out of 5829571
+ 23982 strings out of 477683
+ 442961 string characters out of 5829571
  1868763 words of memory out of 5000000
- 44021 multiletter control sequences out of 15000+600000
+ 44023 multiletter control sequences out of 15000+600000
  549521 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  117i,11n,121p,1023b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/geral/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/geral/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on GM_cv_nonac.pdf (2 pages, 114487 bytes).
+Output written on GM_cv_nonac.pdf (2 pages, 114959 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
- 21 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 135 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 

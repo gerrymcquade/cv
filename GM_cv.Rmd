@@ -24,7 +24,7 @@ urlcolor: blue
 
 # EDUCATION
 
-**Lancaster University** | PhD Economics \hfill 2020 -
+**Lancaster University** | PhD Economics \hfill 2020 - 2024 (Expected)
 
 _Advisors: Catherine Porter & Saurabh Singhal_
 
@@ -58,40 +58,35 @@ _Advisors: Robert Mochrie_
 
 ---------------------
 
-# WORKS IN PROGRESS
+# PUBLICATIONS
 
-## **Research Papers**
+## **Peer-reviewed publications**
 
-Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [[link](https://gerrymcquade.github.io/[GM]earlyliferainfall_personalitytraits_0623.pdf)]
+"A sound methodology: Measuring experiences of violent conflict through audio self-interviews" Economic Letters, 2024. - _with Sophie von Russdorf, Laura Ahlborn, Alessandra Hidalgo & Marta Favara_ [[Paper]](https://doi.org/10.1016/j.econlet.2024.111879) [[Blog]](https://www.younglives.org.uk/news/a-sound-methodology) [[Podcast]](https://podcasts.ox.ac.uk/how-sound-methodology-improves-understanding-young-ethiopians-experience-conflict)
 
-Think of the children: Inter-generational effects of drought exposure on offspring outcomes in Peru
+## **Working papers**
+
+Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [[Draft]](https://gerrymcquade.github.io/[GM]earlyliferainfall_personalitytraits_0623.pdf)
+
+Inter-generational effects of drought exposure on offspring outcomes in Peru
 
 Examining sibling spillovers of a school-day extension program using a regression discontinuity design - _with Catherine Porter & Alan Sanchez_ 
 
-A sound methodology: Measuring experiences of violent conflict through audio self-interviews - _with Sophie von Russdorf, Laura Ahlborn, Alessandra Hidalgo & Marta Favara_
-
-
 ## **Technical Notes**
+
+Identifying climate shocks in Young Lives communities: Estimating weather conditions using a global gridded time series | Young Lives | _with Marta Favara_ [[Report]](https://www.younglives.org.uk/publications/identifying-climate-shocks-young-lives-communities-estimating-weather-conditions-using)
 
 Selection and validation of socio-emotional skill measures in round 5 of the Young Lives survey | Young Lives | _with Catherine Porter, Marta Favara & Mark Mitchell_ 
 
----------------------
-
-# PUBLICATIONS
-
-## **Technical Notes**
-
-Identifying climate shocks in Young Lives communities: Estimating weather conditions using a global gridded time series | Young Lives | _with Marta Favara_ [[link](https://www.younglives.org.uk/publications/identifying-climate-shocks-young-lives-communities-estimating-weather-conditions-using)]
-
 ## **Statistical bulletins**
 
-Deaths related to drug poisoning in England and Wales: 2018 registrations – ONS - _with Emyr John & Asim Butt_ [[link](https://cy.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/2018registrations)]
+Deaths related to drug poisoning in England and Wales: 2018 registrations – ONS - _with Emyr John & Asim Butt_ [[Report]](https://cy.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/2018registrations)
 
 ---------------------
 
 # CONFERENCE PRESENTATIONS
 
- **2023** 
+ **2023 - 2024** 
 
 * 14th Bolivian Conference on Development Economics; Conferencia Internacional de Desarrollo Económico PUCP; 2nd International Conference on Development Economics; 36th European Society of Population Economics conference; 1st Welfare and Policy conference; Inaugural Essex PhD Conference in Applied Economics; NWSSDTP PhD Conference in Economics; Lancaster Applied Micro Workshop; 12th Summer School in Development Economics Workshop (_invited_)
 
@@ -128,6 +123,8 @@ Deaths related to drug poisoning in England and Wales: 2018 registrations – ON
 
 * Quantitative Methods for Economics (ECON 103) | Additional Workshops
 
+* LUMS Maths and Statistics Hub | 1-to-1 Workshops
+
 **Heriot Watt University** \hfill 2019 - 2020
 
 * Intermediate Microeconomics (C28IN) | Workshops
@@ -154,6 +151,6 @@ Deaths related to drug poisoning in England and Wales: 2018 registrations – ON
 
 **Proficiences** Stata, R/Rstudio (including Rmarkdown), QGIS, LaTeX
 
-**Software** sideytab [[Github repository](https://github.com/gerrymcquade/sideytab)]
+**Software** sideytab [[Github repository]](https://github.com/gerrymcquade/sideytab)
 
 **Languages** English (Native), Spanish (CEFR level A2)
