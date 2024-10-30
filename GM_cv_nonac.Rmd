@@ -5,7 +5,7 @@ geometry: margin=0.75in
 title: "CV"
 author: Gerald McQuade
 
-jobtitle: "PhD Candidate in Economics"
+jobtitle: "Teaching Associate and PhD Candidate in Economics"
 address: "Lancaster University Management School · Lancaster LA1 4YX"
 fontawesome: yes
 email: g.mcquade1@lancaster.ac.uk
@@ -24,21 +24,21 @@ urlcolor: blue
 
 # RESEARCH EXPERIENCE
 
-**Young Lives** | _Oxford, UK_ | Research Consultant \hfill 2021 - 2023
-
-* Assisted with development and implementation of round 7 of  Young Lives survey of childhood poverty in four low- and middle-income countries. Travelled to Hyderabad, India and Addis Ababa, Ethiopia to deliver training to fieldwork supervisors and collect feedback from country teams on survey modules.
-
-**Grupo De Análisis para el Desarrollo** | _Lima, Peru_ | Visiting Researcher \hfill Winter 2023
+**Grupo De Análisis para el Desarrollo** | _Lima, Peru_ | Visiting Researcher \hfill 2023
 
 * Working with local researchers to evaluate the impacts of schooling reform on siblings' skill formation and time use. Assist/monitor ongoing data collection for round 7 of Young Lives.
 
-**Queen Mary University London** | _London, UK_ | Research Assistant \hfill 2022
+**Young Lives** | _Oxford, UK_ | Research Consultant \hfill 2021 - 2022
+
+* Assisted with development and implementation of round 7 of Young Lives surveys, including travel to India and Ethiopia to deliver fieldwork training and supervise pilot surveys. Additionally developed a matched dataset of climate covariates.
+
+**Queen Mary University London** | _London, UK_ | Research Assistant to Simon Franklin \hfill 2022
 
 * Assisted in designing survey to measure child human capital and skills in Addis Ababa, Ethiopia.
 
-**Young Lives** | _Oxford, UK_ | Research Assistant \hfill 2020 - 2021
+**Lancaster University** | _Lancaster, UK_ | Research Assistant to Catherine Porter \hfill 2020 - 2021
 
-* Developed dataset of matched spatial covariates, cleaning and validating respondent locations and matching to external spatial datasets. Conducted validation of socio-emotional measures included in previous surveys, assessing suitability and performance within adolescent samples.
+* Conducted validation of socio-emotional measures included in Young Lives surveys, assessing suitability and performance within adolescent samples.
 
 **Office for National Statistics** | _Newport, UK_ | Statistical Research Officer \hfill 2019
 
@@ -52,9 +52,13 @@ urlcolor: blue
 
 # NON-RESEARCH EXPERIENCE
 
+**Lancaster University** | _Lancaster, UK_ | Teaching Associate \hfill 2024-
+
+* Teaching a range of courses in the Department of Economics, assisting with the running of the EconHub drop-in help desk and revision sessions for undergraduates. 
+
 **Lancaster & Heriot Watt Universities** | _Lancaster, UK_ | Graduate Teaching Assistant \hfill 2019 - 2022 
 
-* Organised and delivered lectures, seminars, and coding labs in applied micro-economics, development economics, and econometrics.
+* Organised and delivered seminars, workshops, and coding labs in applied micro-economics, micro-economic theory, and econometrics.
 
 **Royal Naval Reserve** | _Edinburgh, UK_ | Officer Cadet \hfill 2014 - 2018
 
@@ -84,7 +88,7 @@ urlcolor: blue
 
 Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [[Draft]](https://gerrymcquade.github.io/[GM]earlyliferainfall_personalitytraits_0623.pdf)
 
-Inter-generational effects of drought exposure on offspring outcomes in Peru
+Grandmothers and grandsons: Inter-generational effects of drought exposure in Peru
 
 Examining sibling spillovers of a school-day extension program using a regression discontinuity design - _with Catherine Porter & Alan Sanchez_ 
 

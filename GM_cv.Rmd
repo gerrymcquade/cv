@@ -5,7 +5,7 @@ geometry: margin=1in
 title: "CV"
 author: Gerald McQuade
 
-jobtitle: "PhD Candidate in Economics"
+jobtitle: "Teaching Associate and PhD Candidate in Economics"
 address: "Lancaster University Management School · Lancaster LA1 4YX"
 fontawesome: yes
 email: g.mcquade1@lancaster.ac.uk
@@ -17,7 +17,7 @@ keywords: Lancaster, Economics, CV, Development, Peru
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
-fontsize: 11pt
+fontsize: 10pt
 linkcolor: blue
 urlcolor: blue
 ---
@@ -44,13 +44,15 @@ _Advisors: Robert Mochrie_
 
 # RESEARCH EXPERIENCE
 
+**Lancaster University** | _Lancaster, UK_ | Teaching Associate \hfill 2024-
+
 **Grupo De Análisis para el Desarrollo** | _Lima, Peru_ | Visiting Researcher \hfill 2023
 
-**Young Lives** | _Oxford, UK_ | Research Consultant \hfill 2021 - 2023
+**Young Lives** | _Oxford, UK_ | Research Consultant \hfill 2021 - 2022
 
 **Queen Mary University London** | _London, UK_ | RA to Simon Franklin \hfill 2022
 
-**Young Lives** | _Oxford, UK_ | Research Assistant \hfill 2020
+**Lancaster University** | _Lancaster, UK_ | RA to Catherine Porter \hfill 2020
 
 **Office for National Statistics** | _Newport, UK_ | Statistical Research Officer \hfill 2019
 
@@ -60,13 +62,17 @@ _Advisors: Robert Mochrie_
 
 # TEACHING EXPERIENCE
 
-**Lancaster University** \hfill 2021 - 2022
+**Lancaster University** \hfill 2021 - 2024
 
-* Applied Economics (ECON229) | Seminars
+* Communicating Using Economic Data (ECON104) | Seminars | 2024-2025
 
-* Quantitative Methods for Economics (ECON 103) | Additional Workshops
+* EconHub | Undergraduate helpdesk and revision sessions | 2024-2025
 
-* LUMS Maths and Statistics Hub | 1-to-1 Workshops
+* Applied Economics (ECON229) | Seminars | 2021-2022
+
+* Quantitative Methods for Economics (ECON 103) | Additional Workshops | 2022
+
+* LUMS Maths and Statistics Hub | 1-to-1 Workshops | 2021-2022
 
 **Heriot Watt University** \hfill 2019 - 2020
 
@@ -86,7 +92,7 @@ _Advisors: Robert Mochrie_
 
 Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [[Draft]](https://gerrymcquade.github.io/[GM]earlyliferainfall_personalitytraits_0623.pdf)
 
-Inter-generational effects of drought exposure on offspring outcomes in Peru
+Grandmothers and Grandsons: Inter-generational effects of drought exposure in Peru
 
 Examining sibling spillovers of a school-day extension program using a regression discontinuity design - _with Catherine Porter & Alan Sanchez_ 
 
@@ -148,7 +154,7 @@ Deaths related to drug poisoning in England and Wales: 2018 registrations – ON
 
 **Roles**  Lancaster University Economics Department PhD seminar organiser \hfill 2021-2022
 
-**Proficiences** Stata, R/Rstudio (including Rmarkdown), QGIS, LaTeX
+**Proficiences** Stata, R/Rstudio (including Rmarkdown, Quarto), QGIS, LaTeX
 
 **Software** sideytab [[Github repository]](https://github.com/gerrymcquade/sideytab)
 
