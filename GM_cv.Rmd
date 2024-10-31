@@ -26,59 +26,51 @@ urlcolor: blue
 
 **Lancaster University** | PhD Economics \hfill 2020 - 2024 (Expected)
 
-_Advisors: Catherine Porter & Saurabh Singhal_
+* _Advisors: Catherine Porter & Saurabh Singhal_
 
 **University of Oxford, ODID** | Visiting Research Student \hfill Trinity term 2023
 
-_Host: Marta Favara_
+* _Host: Marta Favara_
 
 **University of Edinburgh** | MSc Economics (SGPE) \hfill 2019 - 2020
 
-_Advisors: Robert Mochrie & Catherine Porter_
+* _Advisors: Robert Mochrie & Catherine Porter_
 
 **Heriot Watt University** | MA Economics \hfill 2015 - 2019
 
-_Advisors: Robert Mochrie_
+* _Advisors: Robert Mochrie_
 
 ---------------------
 
-# RESEARCH EXPERIENCE
+# EXPERIENCE
 
 **Lancaster University** | _Lancaster, UK_ | Teaching Associate \hfill 2024-
 
+* Teaching range of courses in the Department of Economics; EconHub drop-in and revision sessions.
+
 **Grupo De Análisis para el Desarrollo** | _Lima, Peru_ | Visiting Researcher \hfill 2023
 
-**Young Lives** | _Oxford, UK_ | Research Consultant \hfill 2021 - 2022
+* Working with local researchers to evaluate the impacts of schooling reform on siblings' skill formation and time use. Assist ongoing data collection for round 7 of Young Lives.
+
+**Young Lives** | _Oxford, UK_ | External Research Consultant \hfill 2021 - 2022
+
+* Assisted with development and implementation of round 7 surveys. Traveled to India and Ethiopia to deliver fieldwork training and supervise pilot surveys. Developed a matched data set of climate covariates.
 
 **Queen Mary University London** | _London, UK_ | RA to Simon Franklin \hfill 2022
 
+* Assisted in designing survey to measure child cognitive skills in Addis Ababa, Ethiopia.
+
 **Lancaster University** | _Lancaster, UK_ | RA to Catherine Porter \hfill 2020
+
+* Validated performance of socio-emotional measures in Young Lives round 5 survey.
 
 **Office for National Statistics** | _Newport, UK_ | Statistical Research Officer \hfill 2019
 
+* Authoring statistical bulletins and data requests within the Mortality Statistics Unit.
+
 **Health Economics Research Unit** | _Aberdeen, UK_ | Research Intern \hfill 2018
 
----------------------
-
-# TEACHING EXPERIENCE
-
-**Lancaster University** \hfill 2021 - 2024
-
-* Communicating Using Economic Data (ECON104) | Seminars | 2024-2025
-
-* EconHub | Undergraduate helpdesk and revision sessions | 2024-2025
-
-* Applied Economics (ECON229) | Seminars | 2021-2022
-
-* Quantitative Methods for Economics (ECON 103) | Additional Workshops | 2022
-
-* LUMS Maths and Statistics Hub | 1-to-1 Workshops | 2021-2022
-
-**Heriot Watt University** \hfill 2019 - 2020
-
-* Intermediate Microeconomics (C28IN) | Workshops
-
-* Econometrics Project (C29EJ) | Labs
+* Assessing health technology and social prescribing cost-effectiveness in health care in Scotland.
 
 ---------------------
 
@@ -138,11 +130,31 @@ Deaths related to drug poisoning in England and Wales: 2018 registrations – ON
 
 ---------------------
 
+# TEACHING
+
+**Lancaster University** \hfill 2021 - 2024
+
+* Communicating Using Economic Data (ECON104) | Seminars | 2024-2025
+
+* EconHub | Undergraduate helpdesk and revision sessions | 2024-2025
+
+* Applied Economics (ECON229) | Seminars | 2021-2022
+
+* Quantitative Methods for Economics (ECON 103) | Additional Workshops | 2022
+
+* LUMS Maths and Statistics Hub | 1-to-1 Workshops | 2021-2022
+
+**Heriot Watt University** \hfill 2019 - 2020
+
+* Intermediate Microeconomics (C28IN) | Workshops | 2019-2020
+
+* Econometrics Project (C29EJ) | Labs | 2019
+
+---------------------
+
 # ADDITIONAL TRAINING
 
-**Advanced Applied Econometrics: Recent Methods and Issues** | University of \hfill 2022
-
- Copenhagen 
+**Advanced Applied Econometrics** | University of Copenhagen \hfill 2022
 
 **GTA Economics Network Workshop** | University of Strathclyde \hfill 2022
 
@@ -152,7 +164,7 @@ Deaths related to drug poisoning in England and Wales: 2018 registrations – ON
 
 # OTHER RELEVANT INFORMATION
 
-**Roles**  Lancaster University Economics Department PhD seminar organiser \hfill 2021-2022
+**Roles**  Lancaster University Economics PhD seminar organiser \hfill 2021-2022
 
 **Proficiences** Stata, R/Rstudio (including Rmarkdown, Quarto), QGIS, LaTeX
 
