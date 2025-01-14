@@ -5,11 +5,11 @@ geometry: margin=1in
 title: "CV"
 author: Gerald McQuade
 
-jobtitle: "Teaching Associate and PhD Candidate in Economics"
-address: "Lancaster University Management School · Lancaster LA1 4YX"
+jobtitle: "Quantitative Research Officer"
+address: "Young Lives, University of Oxford · Oxford OX1 3TB"
 fontawesome: yes
-email: g.mcquade1@lancaster.ac.uk
-web: gerrymcquade.github.io/
+email: gerald.mcquade@qeh.ox.ac.uk
+web: gerrymcquade.github.io
 updated: TRUE
 rdateformat: "`r format(Sys.time(), '%b %Y')`"
 
@@ -24,7 +24,7 @@ urlcolor: blue
 
 # EDUCATION
 
-**Lancaster University** | PhD Economics \hfill 2020 - 2024 (Expected)
+**Lancaster University** | PhD Economics \hfill 2020 - March 2025 (Expected)
 
 * _Advisors: Catherine Porter & Saurabh Singhal_
 
@@ -44,7 +44,11 @@ urlcolor: blue
 
 # EXPERIENCE
 
-**Lancaster University** | _Lancaster, UK_ | Teaching Associate \hfill 2024-
+**Young Lives** | _Oxford, UK_ | Quantitative Research Officer \hfill 2025 -
+
+* Researcher for the YL Research Hub on Climate Change and Environmental Shocks, investigating the long-term impacts of climate shocks and air pollution on human capital formation.
+
+**Lancaster University** | _Lancaster, UK_ | Teaching Associate \hfill 2024
 
 * Teaching range of courses in the Department of Economics; EconHub drop-in and revision sessions.
 
