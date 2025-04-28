@@ -24,7 +24,7 @@ urlcolor: blue
 
 # EDUCATION
 
-**Lancaster University** | PhD Economics \hfill 2020 - March 2025 (Expected)
+**Lancaster University** | PhD Economics \hfill 2020 - 2025
 
 * _Advisors: Catherine Porter & Saurabh Singhal_
 
