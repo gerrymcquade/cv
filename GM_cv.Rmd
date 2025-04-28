@@ -86,11 +86,11 @@ urlcolor: blue
 
 ## **Working papers**
 
-Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [[Draft]](https://gerrymcquade.github.io/[GM]earlyliferainfall_personalitytraits_0623.pdf)
+Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [[Draft]](https://drive.google.com/file/d/1xB96v3TwzQLKtHsrPwk1m5O9iiFsZ737/view?usp=sharing)
 
-Grandmothers and Grandsons: Inter-generational effects of drought exposure in Peru
+Grandmothers and Grandsons: Inter-generational effects of drought exposure in Peru [[Draft]](https://drive.google.com/file/d/1lqmEXXv6k_cOcucgPyeAO9BqCV4YPRec/view?usp=sharing)
 
-Examining sibling spillovers of a school-day extension program using a regression discontinuity design - _with Catherine Porter & Alan Sanchez_ 
+Examining sibling spillovers of a school-day extension program using a regression discontinuity design - _with Catherine Porter & Alan Sanchez_ [[Draft]](https://drive.google.com/file/d/1BnhMo5yJY2kmoy1Q_eXJyH_D5WyaQmMi/view?usp=sharing)
 
 ## **Technical Notes**
 
