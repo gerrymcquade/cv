@@ -28,6 +28,8 @@ urlcolor: blue
 
 * _Advisors: Catherine Porter & Saurabh Singhal_
 
+* _Committee: Leah Bevis & Christophe Jalil Nordman (External), Maria Navarro Paniagua (Internal), Aurelie Slechten (Chair)_
+
 **University of Oxford, ODID** | Visiting Research Student \hfill Trinity term 2023
 
 * _Host: Marta Favara_
@@ -38,7 +40,7 @@ urlcolor: blue
 
 **Heriot Watt University** | MA Economics \hfill 2015 - 2019
 
-* _Advisors: Robert Mochrie_
+* _Advisor: Robert Mochrie_
 
 ---------------------
 
@@ -58,7 +60,7 @@ urlcolor: blue
 
 **Young Lives** | _Oxford, UK_ | External Research Consultant \hfill 2021 - 2022
 
-* Assisted with development and implementation of round 7 surveys. Traveled to India and Ethiopia to deliver fieldwork training and supervise pilot surveys. Developed a matched data set of climate covariates.
+* Assisted with development and implementation of round 7 surveys. Deliver fieldwork training and supervised pilot surveys in India and Ethiopia. Developed a matched climate covariates dataset.
 
 **Queen Mary University London** | _London, UK_ | RA to Simon Franklin \hfill 2022
 
@@ -120,7 +122,7 @@ Deaths related to drug poisoning in England and Wales: 2018 registrations – ON
 
 **Grants** 
 
-* ESRC Student-led Open Competition Masters + PhD Studentship \hfill 2019 - 2024
+* ESRC Student-led Open Competition MSc + PhD Studentship | £100,000 \hfill 2019 - 2024
 
 * NWSSDTP PhD Internship Grant (6 months) | £14,000 \hfill 2023 
 
@@ -170,7 +172,7 @@ Deaths related to drug poisoning in England and Wales: 2018 registrations – ON
 
 **Roles**  Lancaster University Economics PhD seminar organiser \hfill 2021-2022
 
-**Proficiences** Stata, R/Rstudio (including Rmarkdown, Quarto), QGIS, LaTeX
+**Proficiences** Stata, R/Rstudio (including Rmarkdown, Quarto), LaTeX, Python, QGIS
 
 **Software** sideytab [[Github repository]](https://github.com/gerrymcquade/sideytab)
 
